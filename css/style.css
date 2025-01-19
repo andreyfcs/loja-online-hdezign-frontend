@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(52, 8, 8);
+}
+
 .RetMed {
     background-color:black;
     
@@ -8,15 +12,33 @@
     border: solid;
     border-color: white;
     border-width: 1px;
-    background-color: rgba(255, 166, 0, 0.877); 
+    background-color: black; 
     display: flex;
-    align-items: center;    
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 5px;
+
 }
 
-/*.logo {
-    color: aliceblue;   
-}*/
+.logo {
+    color: aliceblue;      
+}
 
-/*.menus {
-    color: aliceblue;
-}*/
+.menus {
+    color: aliceblue;  
+}
+
+.testePai {
+    display: flex;
+}
+
+.teste {
+    background-color: rgb(41, 39, 39);
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    display: flex;
+    width: 50px;
+    height: 50px;
+}
