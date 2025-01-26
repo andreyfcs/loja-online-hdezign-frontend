@@ -30,6 +30,19 @@ body {
     color: aliceblue;  
 }
 
+.menus a {
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px 10px;
+    display: block;
+}
+
+.menus ul {
+    display: flex;
+    list-style: none;
+    
+}
+
 .testePai {
     display: flex;
 }
@@ -39,6 +52,11 @@ body {
     border: solid;
     border-color: rgb(255, 255, 255);
     display: flex;
-    width: 50px;
-    height: 50px;
+    margin: 5px;
+    width: 750px;
+    height: 200px;
+    font-size: 50px;
+    justify-content: center;
+    align-items: ;
+    
 }
