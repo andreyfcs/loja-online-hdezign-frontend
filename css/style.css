@@ -47,8 +47,45 @@ body {
     display: flex;
 }
 
-.teste {
+.teste1 {
     background-color: rgb(41, 39, 39);
+    background-image: url(/imagens/banner-lona-440g-bastao-e-corda-brilho-163-1725625230114696263366daf38e9c889.png);
+    background-size: cover;
+    background-position: center ;
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    display: flex;
+    margin: 5px;
+    width: 750px;
+    height: 200px;
+    font-size: 50px;
+    justify-content: center;
+    align-items: ;
+    
+}
+
+.teste2 {
+    background-color: rgb(41, 39, 39);
+    background-image: url(/imagens/cartao-de-visita-9x5cm-couche-250g-verniz-total-brilho-corte-reto-4x0-115-169020648437258262064be81146281f.jpg);
+    background-size: cover;
+    background-position: center ;
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    display: flex;
+    margin: 5px;
+    width: 750px;
+    height: 200px;
+    font-size: 50px;
+    justify-content: center;
+    align-items: ;
+    
+}
+
+.teste3 {
+    background-color: rgb(41, 39, 39);
+    background-image: url(/imagens/adesivo-recorte-personalizado-personalizado-adesivo-vinil-vinil-refilado-4x0-172753927184066497366f828478853f.png);
+    background-size: cover;
+    background-position: center ;
     border: solid;
     border-color: rgb(255, 255, 255);
     display: flex;
